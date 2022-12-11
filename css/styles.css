@@ -1,0 +1,18 @@
+#game-container{
+    width:400px;
+    margin: 0 auto;
+}
+
+.card {
+    width:50px;
+    height:50px;
+    float:left;
+    background-color:#eee;
+    text-align:center;
+    line-height:50px;
+}
+
+.flipped{
+    background-color:#333;
+    color:#fff;
+}
